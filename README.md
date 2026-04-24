@@ -5,7 +5,7 @@ Local-first desktop task extraction tool built with `Tauri + React + TypeScript`
 Turn free-form text or pasted images into structured task cards with a single prompt-driven workflow.
 
 [中文文档](./README.zh-CN.md) | [English](./README.en.md)
-
+![Homepage](./homepage.png)
 ## Overview
 
 Task Manager 2.0 is a lightweight desktop app focused on one job:
