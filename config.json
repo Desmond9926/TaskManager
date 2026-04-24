@@ -1,0 +1,25 @@
+{
+  "providers": {
+    "openai-main": {
+      "name": "OpenAI-Micu",
+      "npm": "@ai-sdk/openai",
+      "models": {
+        "gpt-5.4": {
+          "name": "gpt-5.4"
+        }
+      },
+      "options": {
+        "apiKey": "sk-ZSP1ZitYs8QtM4L4zfSFAARgqwnrDfiTYAGCoJzrnb5OQHI0",
+        "imageInputEnabled": true,
+        "setCacheKey": true,
+        "baseURL": "https://www.openclaudecode.cn/v1",
+        "headers": {
+          "Authorization": "Bearer sk-ZSP1ZitYs8QtM4L4zfSFAARgqwnrDfiTYAGCoJzrnb5OQHI0",
+          "User-Agent": "codex_cli_rs/0.77.0 (Windows 10.0.26100; x86_64) WindowsTerminal"
+        }
+      }
+    }
+  },
+  "activeProvider": "openai-main",
+  "activeModel": "gpt-5.4"
+}
